@@ -8,9 +8,10 @@ namespace SampleApplicationDay2
 {
     class Class2
     {
-        static void Main(string[] args)
+        static void method()
         {
            Console.WriteLine("changes done by 2nd programmer");
+            Console.WriteLine("also changed by me");
         }
     }
 }
