@@ -11,6 +11,7 @@ namespace SampleApplicationDay2
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("Adding a second line");
         }
     }
 }
