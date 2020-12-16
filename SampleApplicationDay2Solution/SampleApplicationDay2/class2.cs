@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SampleApplicationDay2
 {
-    class Class2
+    partial class Program
     {
         static void method()
         {
