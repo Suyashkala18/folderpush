@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\My Trainig Work\Specialization\SampleApplicationDay2Solution\SampleApplicationDay2\bin\Debug\SampleApplicationDay2.exe.config
+C:\Users\user\Desktop\My Trainig Work\Specialization\SampleApplicationDay2Solution\SampleApplicationDay2\bin\Debug\SampleApplicationDay2.exe
+C:\Users\user\Desktop\My Trainig Work\Specialization\SampleApplicationDay2Solution\SampleApplicationDay2\bin\Debug\SampleApplicationDay2.pdb
+C:\Users\user\Desktop\My Trainig Work\Specialization\SampleApplicationDay2Solution\SampleApplicationDay2\obj\Debug\SampleApplicationDay2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\My Trainig Work\Specialization\SampleApplicationDay2Solution\SampleApplicationDay2\obj\Debug\SampleApplicationDay2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Trainig Work\Specialization\SampleApplicationDay2Solution\SampleApplicationDay2\obj\Debug\SampleApplicationDay2.exe
+C:\Users\user\Desktop\My Trainig Work\Specialization\SampleApplicationDay2Solution\SampleApplicationDay2\obj\Debug\SampleApplicationDay2.pdb
